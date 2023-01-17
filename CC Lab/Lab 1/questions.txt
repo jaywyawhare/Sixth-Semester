@@ -1,0 +1,5 @@
+Understand and implement FCFS, SJF and Round Robin scheduling algorithms.
+
+q1 - FCFS
+q2 - SJF
+q3 - Round Robin
